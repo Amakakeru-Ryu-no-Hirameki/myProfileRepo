@@ -1,0 +1,65 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: #5E3100;
+}
+html head #tittle{
+	font-size: 80px;
+}
+header{
+	background: #0054FF;
+	color: #FF0000;
+	padding-top: 30px;
+	min-height: 70px;
+	border-bottom: 25px solid;
+	border-bottom-color: #00FF16;
+	text-shadow: initial;
+	font-size: 20px;
+	font-family: fantasy;
+}
+
+}
+header a{
+	color: #FF0000;
+	text-decoration: none;
+	padding: 0 20px 0 20px;
+}
+header #brand{
+	float: left;
+}
+header a:hover{
+	color: #FFDF00;
+}
+
+#showcase{
+	min-height: 400px;
+	text-align: center;
+	margin-bottom: 10px;
+	font-family: sans-serif;
+}
+
+#showcase h1{
+	color: #8B897D;
+	margin-top: 100px;
+	font-size: 40px;
+	margin-bottom: 10px;
+}
+
+#showcase p{
+	font-size: 30px;
+}
+
+#box_subscribe{
+	float: left;
+	margin-bottom: 30px;
+}
+
+#box_subscribe h1{
+	color: #FF9A19
+}
+#box_subscribe form{
+	float: right;
+}
+.button_1{
+	background-color: red;
+}
